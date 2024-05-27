@@ -1,0 +1,20 @@
+{
+  "geode": "2.0.0-beta.27",
+  "gd": {
+    "win": "2.204",
+    "mac": "2.200",
+    "android": "2.205"
+  },
+  "version": "v1.0.0",
+  "id": "the_bearodactyl.tooltips",
+  "name": "Tooltips",
+  "developer": "the_bearodactyl",
+  "description": "a library to add tooltips to UI elements :D",
+  "dependencies": [
+    {
+      "id": "geode.node-ids",
+      "version": "v1.11.0",
+      "importance": "required"
+    }
+  ]
+}
